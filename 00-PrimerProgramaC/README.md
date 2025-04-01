@@ -1,0 +1,1 @@
+Resolución de un programa que imprime "Hola mundo"
