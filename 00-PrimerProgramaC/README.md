@@ -1,1 +1,1 @@
-Resolución de un programa que imprime "Hola mundo"
+Resolución de un programa en C que imprime "Hola mundo"
